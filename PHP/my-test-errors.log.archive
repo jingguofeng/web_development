@@ -1,0 +1,45 @@
+----- Full content of error log as mailed @ 20/02/2015 14:23:29 -----
+[2015-02-20 14:49:24]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+*FATAL* [2015-02-20 14:49:24]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+[2015-02-20 14:54:44]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->70
+*FATAL* [2015-02-20 14:54:44]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->70
+[2015-02-20 14:54:58]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->70
+*FATAL* [2015-02-20 14:54:58]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->70
+[20-Feb-2015 13:59:00] PHP Warning:  require_once(authorize_php_sdk/AuthorizeNet.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/content/a/x/i/axizjoel/html/config.php on line 13
+[20-Feb-2015 13:59:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'authorize_php_sdk/AuthorizeNet.php' (include_path='.:/usr/local/php5/lib/php') in /home/content/a/x/i/axizjoel/html/config.php on line 13
+[2015-02-20 15:01:22]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->73
+[20-Feb-2015 15:01:22] PHP Fatal error:  Call to a member function setAttribute() on a non-object in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 73
+*FATAL* [2015-02-20 15:01:22]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->73
+[20-Feb-2015 15:06:36] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'flashcoastdb'@'72.167.183.49' (using password: YES)' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:58
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(58): PDO->__construct('mysql:host=flas...', 'flashcoastdb', 'Pontiac@955631')
+#1 {main}
+  thrown in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 58
+*FATAL* [2015-02-20 15:06:36]:[error_message]->Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'flashcoastdb'@'72.167.183.49' (using password: YES)' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:58
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(58): PDO->__construct('mysql:host=flas...', 'flashcoastdb', 'Pontiac@955631')
+#1 {main}
+  thrown [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->58
+
+----- Full content of error log as mailed @ 20/02/2015 14:31:31 -----
+[20-Feb-2015 15:30:32] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'flashcoastdb'@'72.167.183.49' (using password: YES)' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:58
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(58): PDO->__construct('mysql:host=flas...', 'flashcoastdb', 'Pontiac@955631')
+#1 {main}
+  thrown in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 58
+*FATAL* [2015-02-20 15:30:32]:[error_message]->Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'flashcoastdb'@'72.167.183.49' (using password: YES)' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:58
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(58): PDO->__construct('mysql:host=flas...', 'flashcoastdb', 'Pontiac@955631')
+#1 {main}
+  thrown [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->58
+[20-Feb-2015 15:31:08] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'flashcoastdb'@'72.167.183.49' (using password: YES)' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:58
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(58): PDO->__construct('mysql:host=flas...', 'flashcoastdb', 'Pontiac@955631')
+#1 {main}
+  thrown in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 58
+*FATAL* [2015-02-20 15:31:08]:[error_message]->Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'flashcoastdb'@'72.167.183.49' (using password: YES)' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:58
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(58): PDO->__construct('mysql:host=flas...', 'flashcoastdb', 'Pontiac@955631')
+#1 {main}
+  thrown [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->58
+
