@@ -1,0 +1,58 @@
+[20-Feb-2015 15:55:07] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'email'' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:75
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(75): PDOStatement->execute()
+#1 {main}
+  thrown in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 75
+*FATAL* [2015-02-20 15:55:07]:[error_message]->Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'email'' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:75
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(75): PDOStatement->execute()
+#1 {main}
+  thrown [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->75
+[20-Feb-2015 15:56:15] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'email'' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:75
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(75): PDOStatement->execute()
+#1 {main}
+  thrown in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 75
+*FATAL* [2015-02-20 15:56:15]:[error_message]->Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'email'' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:75
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(75): PDOStatement->execute()
+#1 {main}
+  thrown [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->75
+[20-Feb-2015 15:57:48] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'email'' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:75
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(75): PDOStatement->execute()
+#1 {main}
+  thrown in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 75
+*FATAL* [2015-02-20 15:57:48]:[error_message]->Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'email'' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:75
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(75): PDOStatement->execute()
+#1 {main}
+  thrown [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->75
+[20-Feb-2015 15:58:28] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'email'' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:75
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(75): PDOStatement->execute()
+#1 {main}
+  thrown in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 75
+*FATAL* [2015-02-20 15:58:28]:[error_message]->Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'email'' in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php:75
+Stack trace:
+#0 /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php(75): PDOStatement->execute()
+#1 {main}
+  thrown [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->75
+[20-Feb-2015 16:18:29] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 79
+*FATAL* [2015-02-20 16:18:29]:[error_message]->Cannot pass parameter 2 by reference [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->79
+[20-Feb-2015 15:19:14] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 77
+*FATAL* [2015-02-20 15:19:14]:[error_message]->Cannot pass parameter 2 by reference [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->77
+[20-Feb-2015 15:20:01] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 77
+*FATAL* [2015-02-20 15:20:01]:[error_message]->Cannot pass parameter 2 by reference [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->77
+[20-Feb-2015 15:22:12] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 77
+*FATAL* [2015-02-20 15:22:12]:[error_message]->Cannot pass parameter 2 by reference [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->77
+[20-Feb-2015 15:22:26] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 77
+*FATAL* [2015-02-20 15:22:26]:[error_message]->Cannot pass parameter 2 by reference [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->77
+[20-Feb-2015 15:26:26] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 77
+*FATAL* [2015-02-20 15:26:26]:[error_message]->Cannot pass parameter 2 by reference [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->77
+[2015-02-20 15:28:45]:[error_type]->8 [error_message]->Undefined variable: db [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->74
+[20-Feb-2015 15:28:45] PHP Fatal error:  Call to a member function query() on a non-object in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 74
+*FATAL* [2015-02-20 15:28:45]:[error_message]->Call to a member function query() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->74
+[2015-02-20 15:29:03]:[error_type]->8 [error_message]->Undefined variable: db [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->74
+[20-Feb-2015 15:29:03] PHP Fatal error:  Call to a member function query() on a non-object in /home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php on line 74
+*FATAL* [2015-02-20 15:29:03]:[error_message]->Call to a member function query() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->74

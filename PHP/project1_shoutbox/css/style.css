@@ -1,0 +1,132 @@
+/* 
+   -------Reset framework--------
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*
+	-------Reset framework--------
+*/
+
+body{
+	font-family: arial;
+	font-size: 15px;
+	line-height:1.5em;
+	background:#f4f4f4;
+}
+
+#container{
+	background: #333333;
+	margin:50px auto;
+	overflow: auto;
+	width: 50%;
+	min-height: 400px;
+}
+
+header h1{
+	color: #ffffff;
+	font-size:22px;
+	padding:15px 0 10px 10px;
+	border-bottom: 1px solid #ffffff;
+}
+
+#shouts{
+	width:90%;
+	background: #f4f4f4;
+	height:400px;
+	margin: 20px auto;
+	overflow: auto;
+}
+
+.shout{
+	list-style: none;
+	padding: 8px;
+	border-bottom: 1px #cccccc dotted;
+}
+
+.shout span{
+	color: #aaaaaa;
+}
+
+#input{
+	width: 90%;
+	min-height: 80px;
+	margin: auto;
+	padding: 0px;
+}
+
+#input input[type="text"]{
+	height: 25px;
+	width: 47%;
+	padding: 3px;
+	margin-right: 3px;
+	margin-bottom: 20px;
+	border: #666666 solid 1px;
+}
+
+#input .shout-btn{
+	padding: 5px;
+	width:100%;
+	margin: 1px auto;
+	margin-bottom: 20px;
+}
+
+.error{
+	background: red;
+	color: #ffffff;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 768px){
+	#input input[type="text"]{
+		width: 98%;
+	}
+}

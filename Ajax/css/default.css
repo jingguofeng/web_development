@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	width: 800px;
+	border: 5px gray solid;
+	border-radius: 20px;
+	margin:10px auto;
+	padding: 20px;
+}
+
+#wrapper{
+	margin: 20px;
+	border: 1px blue solid;
+	border-radius: 10px;
+}
+
+#introPane{
+	margin: 10px;
+	border: 1px gray solid;
+	border-radius: 10px;
+}
+
+#thumbnailPane{
+	margin: 10px;
+	border: 1px gray solid;
+	border-radius: 10px;
+}
+
+#detailsPane{
+	margin: 10px;
+	border: 1px gray solid;
+	border-radius: 10px;
+}

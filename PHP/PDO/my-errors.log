@@ -1,0 +1,52 @@
+You messed up!You messed up!
+You messed up!
+You messed up!
+You messed up!
+You messed up!You messed up!
+You messed up!
+You messed up!
+You messed up!
+You messed up!
+[20.02.2015 12:48:24]:You messed up!
+[20.02.2015 12:53:14]:You messed up!
+*FATAL* [20.02.2015 12:53:14]:You messed up!
+[20.02.2015 12:53:15]:You messed up!
+*FATAL* [20.02.2015 12:53:15]:You messed up!
+[20.02.2015 12:53:29]:You messed up!
+*FATAL* [20.02.2015 12:53:29]:You messed up!
+[20.02.2015 12:53:30]:You messed up!
+*FATAL* [20.02.2015 12:53:30]:You messed up!
+[20.02.2015 12:55:09]:You messed up!
+*FATAL* [20.02.2015 12:55:09]:You messed up!
+[20.02.2015 12:55:28]:You messed up!
+*FATAL* [20.02.2015 12:55:28]:You messed up!
+[20.02.2015 12:57:37]:You messed up!
+*FATAL* [20.02.2015 12:57:37]:[error_message]->Call to a member function setAttribute() on a non-object
+[20.02.2015 12:57:39]:You messed up!
+*FATAL* [20.02.2015 12:57:39]:[error_message]->Call to a member function setAttribute() on a non-object
+[20.02.2015 01:10:14]:You messed up!
+*FATAL* [20.02.2015 01:10:14]:[error_message]->Call to a member function setAttribute() on a non-object[file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php
+[20.02.2015 01:15:16]:[error_type]-> [error_message]-> [file]-> [line]->
+*FATAL* [20.02.2015 01:15:16]:[error_message]->Call to a member function setAttribute() on a non-object[file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php
+[20.02.2015 01:16:06]:[error_type]-> [error_message]-> [file]-> [line]->
+*FATAL* [20.02.2015 01:16:06]:[error_message]->Call to a member function setAttribute() on a non-object[file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php
+[20.02.2015 01:16:31]:[error_type]-> [error_message]-> [file]-> [line]->
+*FATAL* [20.02.2015 01:16:31]:[error_message]->Call to a member function setAttribute() on a non-object[file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php
+[20.02.2015 01:17:17]:[error_type]-> [error_message]-> [file]-> [line]->
+*FATAL* [20.02.2015 01:17:17]:[error_message]->Call to a member function setAttribute() on a non-object[file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php
+[20.02.2015 01:18:25]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->64
+*FATAL* [20.02.2015 01:18:25]:[error_message]->Call to a member function setAttribute() on a non-object[file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php
+[20.02.2015 01:27:52]:[error_type]-> [error_message]-> [file]-> [line]->
+*FATAL* [20.02.2015 01:27:52]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->68
+[20.02.2015 01:29:51]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+*FATAL* [20.02.2015 01:29:51]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+[2015-02-20 01:37:35]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+*FATAL* [2015-02-20 01:37:35]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+[2015-02-20 02:40:49]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+*FATAL* [2015-02-20 02:40:49]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+[2015-02-20 02:41:58 PM]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+*FATAL* [2015-02-20 02:41:58]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+[2015-02-20 02:42:00 PM]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+*FATAL* [2015-02-20 02:42:00]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+[2015-02-20 14:43:58:000000]:[error_type]->8 [error_message]->Undefined variable: dbh [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
+*FATAL* [2015-02-20 14:43:58:000000]:[error_message]->Call to a member function setAttribute() on a non-object [file]->/home/content/a/x/i/axizjoel/html/fakeweb/PDO/connect.php [line]->67
