@@ -1,0 +1,81 @@
+.receipt{
+	width: 100%;
+	float:left;
+	border: 1px solid white;
+}
+.grey-font{
+	color: #666;
+	font-size: 16px;
+}
+.company_info{
+	display:block;
+	padding: 3px;
+	float: left;
+	width: 50%;
+	margin:0;
+}
+
+
+.receipt_no{
+	display: block;
+	padding:3px;
+	width:25%;
+	float: right;
+	vertical-align: bottom;
+	text-align: right;
+	margin-top: 37pt;
+}
+
+.bill_to{
+	display: block;
+	margin-top:20pt;
+	padding:3px;
+	width: 30%;
+	float: left;
+}
+
+.payment_detail{
+	display: block;
+	padding:3px;
+	margin: 0pt;
+	float: right;
+	width: 40%;
+
+}
+
+.item_table{
+	width: 100%;
+	margin-top:30pt;
+	float: left;
+}
+
+
+.invoice_table{
+	width: 98%;
+	border-collapse:collapse;  /* separate: keep borders separate. This is default. collapse: merge borders of adjoining cells*/
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.order_product{
+	border: 1pt solid #e3e3e3;
+}
+
+.invoice_table th{
+	background: #3c3d3a !important;
+	padding: 6px 10px;
+	text-align: left;
+	font-size: 16px;
+	color: #fff !important;
+}
+
+.invoice_table td{
+	font-size:14px;
+	padding: 7px 10px;
+}
+
+.order_sum td{
+	padding: 14px 10px 5px 10px;
+	color: red;
+}
+
+

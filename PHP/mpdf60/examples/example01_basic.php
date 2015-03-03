@@ -1,5 +1,8 @@
-<?php
+<?php 
+	ob_start();
+?>
 
+<?php
 
 $html = '
 <h1><a name="top"></a>mPDF</h1>
@@ -176,11 +179,17 @@ $mpdf=new mPDF('c');
 
 $mpdf->WriteHTML($html);
 $mpdf->Output();
-exit;
+
 
 //==============================================================
 //==============================================================
 //==============================================================
 
 
+?>
+
+<?php 
+	file_put_contents('example01_basic.pdf', ob_get_contents());
+	header("Location: index.php");
+	exit();
 ?>
